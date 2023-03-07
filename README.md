@@ -23,3 +23,6 @@ personal_accounting_system
 │                   
 ├─usersFiles
 |       users.csv
+
+## 视频演示
+【Python项目 个人记账系统  “小谢记账本”】 https://www.bilibili.com/video/BV1iB4y1Q7Fo/?share_source=copy_web&vd_source=dc4c089c4d33d6c29f80dc3b6268ddbc
