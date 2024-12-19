@@ -4,6 +4,8 @@
 
 ## 项目运行方法
 直接下载personal_accounting_system.rar， 解压后将本项目文件夹personal_accounting_system在python编译器中打开。将pyFiles中的main.py文件设为启动文件。Script path为……personal_accounting_system\pyFiles\main.py，working directory为personal_accounting_system文件夹所在地址。
+
+安装相应的python库
 ## 注意事项
 在第一次注册新账号后，需要重新打开程序再登录。
 
